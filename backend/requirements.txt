@@ -1,0 +1,15 @@
+# Core
+fastapi[all]==0.115.12
+uvicorn[standard]==0.34.0
+pydantic==2.11.3
+python-multipart==0.0.20
+
+# Quantum Computing
+qiskit==2.3.0
+qiskit-aer==0.17.2
+numpy==2.4.3
+scipy==1.17.1
+
+# Visualization
+matplotlib==3.10.1
+pylatexenc==2.10
